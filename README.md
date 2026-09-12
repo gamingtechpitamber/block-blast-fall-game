@@ -13,6 +13,8 @@ readme.md file:
 
 ## 📥 डाउनलोड
 [APK डाउनलोड गर्नुहोस्](https://your-username.github.io/dot-snake-game/)
+
+<iframe src="https://trtakeraj.github.io/block-blast-fall-game/" width="100%" height="600" style="border:3px solid #ff6600; border-radius:12px;"></iframe>
 ब्लक ब्लास्ट फल खेल्नुहोस्, आफ्नो बढी भन्दा बढी स्कोर बढाउनुहोस्, र साथीहरूलाई  तपाईंको उच्च स्कोर कमेन्टमा सेयर गर्नुहोस् ।<br>
 Block Blast Fall game latest verson:-4.2
 **खेल्नुहोस्, मज्जा लिनुहोस्, र समय बिताउनु!**
